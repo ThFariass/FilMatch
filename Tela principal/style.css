@@ -1,0 +1,173 @@
+.tela-principal {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.tela-principal .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 1080px;
+}
+
+.tela-principal .overlap-group {
+  position: relative;
+  height: 1080px;
+  background-image: url(./img/house-of-gucci-poster-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.tela-principal .ellipse {
+  position: absolute;
+  width: 109px;
+  height: 109px;
+  top: 751px;
+  left: 721px;
+  background-color: #424254;
+  border-radius: 54.5px;
+}
+
+.tela-principal .gostar {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 33px;
+  left: 33px;
+  object-fit: cover;
+}
+
+.tela-principal .cancelar-wrapper {
+  position: absolute;
+  width: 109px;
+  height: 109px;
+  top: 751px;
+  left: 1089px;
+  background-color: #424254;
+  border-radius: 54.5px;
+}
+
+.tela-principal .cancelar {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 34px;
+  left: 33px;
+  object-fit: cover;
+}
+
+.tela-principal .fil-match {
+  position: absolute;
+  width: 259px;
+  top: 10px;
+  left: 830px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-principal .text-wrapper {
+  color: #ffffff;
+}
+
+.tela-principal .overlap {
+  position: absolute;
+  width: 1671px;
+  height: 98px;
+  top: 948px;
+  left: 63px;
+}
+
+.tela-principal .element-gostaram-desse {
+  position: absolute;
+  width: 1665px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-principal .star {
+  top: 53px;
+  left: 1581px;
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+
+.tela-principal .img {
+  top: 53px;
+  left: 1626px;
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+
+.tela-principal .div {
+  position: absolute;
+  width: 490px;
+  top: 859px;
+  left: 63px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-principal .engrenagem {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 27px;
+  left: 1837px;
+  object-fit: cover;
+}
+
+.tela-principal .perfil {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 27px;
+  left: 1741px;
+  object-fit: cover;
+}
+
+.tela-principal .star-2 {
+  top: 1001px;
+  left: 1734px;
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+
+.tela-principal .star-3 {
+  top: 1001px;
+  left: 1779px;
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+
+.tela-principal .star-4 {
+  top: 1001px;
+  left: 1824px;
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}

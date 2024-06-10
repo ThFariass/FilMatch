@@ -1,0 +1,158 @@
+.tela-de-login {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.tela-de-login .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 1080px;
+}
+
+.tela-de-login .overlap-group {
+  position: relative;
+  height: 1080px;
+  background-image: url(./img/i397070-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.tela-de-login .overlap {
+  position: absolute;
+  width: 381px;
+  height: 60px;
+  top: 431px;
+  left: 770px;
+  background-color: #ffffff;
+  border-radius: 7px;
+}
+
+.tela-de-login .text-wrapper {
+  position: absolute;
+  width: 252px;
+  top: 20px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-de-login .div-wrapper {
+  position: absolute;
+  width: 381px;
+  height: 60px;
+  top: 521px;
+  left: 770px;
+  background-color: #ffffff;
+  border-radius: 7px;
+}
+
+.tela-de-login .div {
+  position: absolute;
+  top: 18px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-de-login .text-wrapper-2 {
+  position: absolute;
+  top: 322px;
+  left: 895px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-de-login .overlap-2 {
+  position: absolute;
+  width: 381px;
+  height: 67px;
+  top: 671px;
+  left: 770px;
+  background-color: #cc2a41;
+  border-radius: 7px;
+}
+
+.tela-de-login .text-wrapper-3 {
+  position: absolute;
+  top: 21px;
+  left: 159px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.tela-de-login .rectangle {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 609px;
+  left: 773px;
+  background-color: #ffffff;
+  border-radius: 7px;
+}
+
+.tela-de-login .text-wrapper-4 {
+  position: absolute;
+  top: 613px;
+  left: 809px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-de-login .fil-match {
+  position: absolute;
+  width: 258px;
+  height: 77px;
+  top: 73px;
+  left: 832px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: transparent;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.tela-de-login .span {
+  color: #ffffff;
+}
+
+.tela-de-login .text-wrapper-5 {
+  color: #ff0000;
+}
+
+.tela-de-login .text-wrapper-6 {
+  position: absolute;
+  top: 793px;
+  left: 890px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
