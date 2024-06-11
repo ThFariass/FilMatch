@@ -156,3 +156,15 @@
   letter-spacing: 0;
   line-height: normal;
 }
+
+.tela-de-login .text-wrapper-7 {
+  position: absolute;
+  top: 830px;
+  left: 920px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
