@@ -46,14 +46,14 @@
   position: absolute;
   width: 20px;
   height: 34px;
-  top: 35px;
-  left: 20px;
+  top: -244px;
+  left: -625px;
 }
 
 .tela-da-senha .text-wrapper-2 {
   position: absolute;
-  top: 36px;
-  left: 52px;
+  top: -240px;
+  left: -590px;
   font-family: "Inter", Helvetica;
   font-weight: 400;
   color: #ffffff;
